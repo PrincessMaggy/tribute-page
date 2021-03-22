@@ -1,0 +1,39 @@
+*{
+ background-color:silver; 
+
+}
+#title{
+  text-transform:uppercase;
+ font-weight:700;
+  font-size: 3em;
+  color:green;
+  text-align:center;
+}
+#img-div{
+  text-align:center;
+}
+img{
+ display:block;
+  margin-right:auto;
+  margin-left:auto;
+  width:100%;
+  max-width:200px;
+  border-radius:15px;
+}
+#img-caption{
+ font-weight:bolder;
+}
+#tribute-info{
+
+  font-size:1.2rem;
+}
+#tribute-info p:first-child{
+  text-align:center;
+  text-decoration:underline;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  color:deeppink;
+}
